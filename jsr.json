@@ -1,0 +1,6 @@
+{
+  "name": "@amadesclaire/zod",
+  "version": "3.24.1",
+  "license": "MIT",
+  "exports": "./deno/lib/index.ts"
+}
